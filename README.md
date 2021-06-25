@@ -7,4 +7,4 @@ This repository cointains the JWD Final Project API sources so students can inte
   mvn spring-boot:run
 ```
 
-2. To understand how to use the API use the following [Postman Collection](https://www.getpostman.com/collections/b787f57e4c0fc1be2194)
+2. To understand easier how to use the API use the following [Postman Collection](https://www.getpostman.com/collections/b787f57e4c0fc1be2194)
